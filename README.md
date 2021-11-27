@@ -7,3 +7,7 @@ Allowing the user to upload their own custom control & operations code to the un
 - troll config
 - ...!
 
+# Sensors
+
+- GPS Coords
+
